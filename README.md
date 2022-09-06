@@ -4,8 +4,6 @@ This is the first phase of a four phase project, to create a basic clone of the 
 # Environment
 The console was developed in Ubuntu 20.04LTS using python3 (version 3.4.3).
 
-Further information bookmark_tabs For further information on python version, and documentation visit python.org.
-
 # Requirements
 Knowledge in python3, how to use a command line interpreter, a computer with Ubuntu 14.04, python3 and pep8 style corrector.
 
