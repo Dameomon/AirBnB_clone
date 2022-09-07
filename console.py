@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """ Console  """
 import cmd
@@ -179,4 +178,4 @@ class HBNBCommand(cmd.Cmd):
 
 if __name__ == '__main__':
     HBNBCommand().cmdloop()
-   
+    
