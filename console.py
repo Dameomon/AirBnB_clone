@@ -322,3 +322,7 @@ class HBNBCommand(cmd.Cmd):
 
 if __name__ == "__main__":
     HBNBCommand().cmdloop()
+<<<<<<< HEAD
+=======
+    
+>>>>>>> c1c9a60a57394365671a424d8be9537ebecda946
